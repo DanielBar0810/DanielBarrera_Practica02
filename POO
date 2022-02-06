@@ -17,10 +17,10 @@ public class personaje {
     */
     public personaje()
     {
-        this.setName("Fighter_1");
-        this.setHealth(100);
+        this.setName("Mago");
+        this.setHealth(75);
         this.setAttack(40);
-        this.setDefense(60);
+        this.setDefense(5);
     }
     
     /*
